@@ -1,5 +1,5 @@
 # APPRAISE-AI
-This is the repository for the paper: [*APPRAISE-AI - A quantitative evalaution tool for artificial intelligence studies in medicine*](#).
+This is the repository for the paper: [*Development of the APPRAISE-AI tool for quantitative evaluation of artificial intelligence studies for clinical decision support*](#).
 
 Authors: Jethro C.C. Kwong, Adree Khondker, Katherine Lajkosz, Matthew B.A. McDermott, Xavier Borrat Frigola, Melissa D. McCradden, Muhammad Mamdani, Girish S. Kulkarni, Alistair E.W. Johnson
 
